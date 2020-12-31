@@ -1,0 +1,20 @@
+item {
+    name: "Black duck",
+    id: 1,
+    display_name: "Black duck"
+}
+item {
+    name: "Blue duck",
+    id: 2,
+    display_name: "Blue duck"
+}
+item {
+    name: "Dead",
+    id: 3,
+    display_name: "Dead"
+}
+item {
+    name: "Red duck",
+    id: 4,
+    display_name: "Red duck"
+}
